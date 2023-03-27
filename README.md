@@ -22,4 +22,5 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Delphi" height="30" width="40" src="https://github.com/thiagomorini/thiagomorini/blob/main/delphi.svg">
+  <img align="center" alt="Delphi" height="30" width="40" src="https://github.com/thiagomorini/thiagomorini/blob/main/python.svg">
 </div>
