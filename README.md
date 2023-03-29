@@ -23,6 +23,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Delphi" height="30" width="40" src="https://github.com/thiagomorini/thiagomorini/blob/main/delphi.svg">
   <img align="center" alt="Delphi" height="30" width="40" src="https://github.com/thiagomorini/thiagomorini/blob/main/csharp.svg">
+  <img align="center" alt="Delphi" height="30" width="40" src="https://github.com/thiagomorini/thiagomorini/blob/main/cplusplus.svg">
   <img align="center" alt="Delphi" height="30" width="40" src="https://github.com/thiagomorini/thiagomorini/blob/main/sql-server.svg">
   <img align="center" alt="Delphi" height="30" width="40" src="https://github.com/thiagomorini/thiagomorini/blob/main/python.svg">
   <img align="center" alt="Delphi" height="30" width="40" src="https://github.com/thiagomorini/thiagomorini/blob/main/mongodb.svg">
