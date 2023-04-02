@@ -31,3 +31,21 @@
   <img align="center" alt="Delphi" height="30" width="40" src="https://github.com/thiagomorini/thiagomorini/blob/main/numpy.svg">
   <img align="center" alt="Delphi" height="30" width="40" src="https://github.com/thiagomorini/thiagomorini/blob/main/pandas.svg">
 </div>
+
+##
+  
+### Projetos em Delphi
+
+[Lista de projetos em Delphi](https://github.com/thiagomorini?tab=repositories&q=&type=source&language=delphi)
+  
+### Projetos em C++
+
+[Lista de projetos em C++](https://github.com/thiagomorini?tab=repositories&q=&type=source&language=cpp)
+  
+### Projetos em Python
+
+[Lista de projetos em Python](https://github.com/thiagomorini?tab=repositories&q=&type=source&language=python)
+
+### Projetos de Ciência de Dados
+
+[Em breve](https://github.com/thiagomorini)
