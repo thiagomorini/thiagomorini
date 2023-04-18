@@ -1,17 +1,17 @@
-### Olá 👋🏻, eu sou Thiago Morini.
+### Hello 👋🏻, I'm Thiago Morini.
 
-- 🔭 Sou Engenheiro de Software Sênior, Full Stack.
+- 🔭 I'm a Senior Software Engineer, Full Stack.
 
-- 💪🏻 Atualmente estou melhorando as minhas habilidades em Python, tais como:
+- 💪🏻 I am currently improving my Python skills such as:
   - pytest
   - Django
 
-- 🌱 Aprendendo sobre:
-  - Ciência de dados
-  - Estatística
-  - Machine Learning
-  - Big Data
-  - Inteligência Artificial
+- 🌱 Learning about:
+   - Data Science
+   - Statistics
+   - Machine Learning
+   - Big data
+   - Artificial intelligence
 
 ##
 
@@ -34,18 +34,18 @@
 
 ##
   
-### Projetos em Delphi
+### Projects in Delphi
 
-[Lista de projetos em Delphi](https://github.com/thiagomorini?tab=repositories&q=&type=source&language=delphi)
+[List of Delphi projects](https://github.com/thiagomorini?tab=repositories&q=&type=source&language=delphi)
   
-### Projetos em C++
+### Projects in C++
 
-[Lista de projetos em C++](https://github.com/thiagomorini?tab=repositories&q=&type=source&language=cpp)
+[List of C++ projects](https://github.com/thiagomorini?tab=repositories&q=&type=source&language=cpp)
   
-### Projetos em Python
+### Projects in Python
 
-[Lista de projetos em Python](https://github.com/thiagomorini?tab=repositories&q=&type=source&language=python)
+[List of Python projects](https://github.com/thiagomorini?tab=repositories&q=&type=source&language=python)
 
-### Projetos de Ciência de Dados
+### Data Science Projects
 
-[Em breve](https://github.com/thiagomorini)
+[Coming soon](https://github.com/thiagomorini)
